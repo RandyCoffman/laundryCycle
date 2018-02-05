@@ -1,10 +1,10 @@
 def wear(smell)
-  sample(:drum_bass_hard, rate:smell)
+  sample(:drum_bass_soft, rate:smell)
   sleep(2)
   print "Sample means wear from function"
 end
 
-def stain_treat()
+def stain_treatment()
   play(50)
 end
 
@@ -25,11 +25,10 @@ def dry(dryness)
   print "Sample is our dry"
 end
 
-
 10.times do
   wear(10)
   if dirty?() == true
-    stain_treat()
+    stain_treatment()
   end
   wash(60,2)
   dry(:elect_beep)
