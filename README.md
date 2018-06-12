@@ -15,5 +15,5 @@ In Sonic Pi, click "load" and select location of file named "sonic_songs". Selec
 System Requirements:
 Ruby needs to be installed on your system. Ruby 2.0 or later is recommended.
 
-Ruby - Click here for more information on installing Ruby on your system.
-Sonic Pi - Click here for more information on installing Sonic Pi.
+* [Ruby](https://www.ruby-lang.org/en/documentation/installation/) - Click here for more information on installing Ruby on your system.
+* [Sonic Pi](https://sonic-pi.net/) - Click here for more information on installing Sonic Pi.
